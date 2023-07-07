@@ -176,7 +176,8 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(0, 0, 0, 0.1);
+  /* background: rgba(0, 0, 0, 0.1); */
+  background: #1484B4;
   /* background: rgba(185, 183, 183, 0.993); */
   /* background: #1484B4; */
   transition: all 0.5s;
