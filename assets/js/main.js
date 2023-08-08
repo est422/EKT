@@ -1,7 +1,7 @@
 /**
-* Template Name: Bethany
+* Template Name: Selecao
 * Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
+* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -60,6 +60,7 @@
   }
   window.addEventListener('load', navbarlinksActive)
   onscroll(document, navbarlinksActive)
+
   /**
    * Scrolls to an element with header offset
    */
@@ -162,7 +163,6 @@
     if (portfolioContainer) {
       let portfolioIsotope = new Isotope(portfolioContainer, {
         itemSelector: '.portfolio-item',
-        layoutMode: 'fitRows'
       });
 
       let portfolioFilters = select('#portfolio-flters li', true);
@@ -232,7 +232,7 @@
       },
 
       1200: {
-        slidesPerView: 2,
+        slidesPerView: 3,
         spaceBetween: 20
       }
     }
@@ -249,10 +249,5 @@
       mirror: false
     })
   });
-
-  /**
-   * Initiate Pure Counter 
-   */
-  new PureCounter();
 
 })()
