@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
+Template Name: Impact
+Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
